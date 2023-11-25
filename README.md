@@ -1,36 +1,34 @@
 # Kitchen-Story
 
+## Project 2 - Kitchen Story
 
-Kitchen Story. 
+### Project Objective
 
-Project 2  
+Kitchen Story is an e-commerce portal designed for people to shop for basic food items on their website. The objective of the project is to implement the following features:
 
-DESCRIPTION 
+1. A search form on the homepage allowing entry of food items to be purchased by the customer.
 
-Project objective: 
+2. Display available food items with prices based on the entered item details.
 
-Kitchen Story is an e-commerce portal that lets people shop basic food items on their website. The website needs to have the following features: 
+3. Redirect users to a list of available items upon selecting an item to purchase. The next page will show a complete breakdown of the order and details of the payment to be made via the payment gateway.
 
-      
+4. Upon completion of the payment, users are shown a confirmation page with details of the order.
 
-A search form in the home page to allow entry of the food items to be purchased by the customer. 
+### Admin Backend Features
 
-Based on item details entered, it will show available food items with price. 
+To enable the above features, there will be an admin backend with the following functionalities:
 
-Once a person selects an item to purchase, they will be redirected to the list of available items. In the next page, they are shown the complete breakout of the order and details of the payment to be made in the payment gateway. When payment is done, they are shown a confirmation page with details of the order. 
+1. Admin login page where the admin can change their password after login if desired.
 
-   
+2. A master list of food items available for purchase.
 
-For the above features to work, there will be an admin backend with the following features: 
+3. Functionality to add or remove food items from the list.
 
-Admin login page where admin can change password after login if he wants to 
+### Tools Used
 
-A master list of food items available for purchase 
+- HTML
+- Bootstrap
+- CSS
 
-A functionality to add or remove food items 
+This project aims to create a seamless and user-friendly e-commerce experience for customers to purchase basic food items. The admin backend provides the necessary tools for managing food items and ensuring a smooth operation of the online store.
 
-      
-
- 
-
-Tools used: HTML, Bootstrap, CSS 
